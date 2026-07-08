@@ -63,29 +63,7 @@ where
 * (\hat y_i) is the predicted value
 * (n) is the number of samples
 
----
 
-## Gradient Descent
-
-Gradient Descent updates the parameters iteratively to minimize the loss function.
-
-### Gradient with respect to Weight
-
-$$
-\frac{\partial J}{\partial b}
-=
--\frac{2}{n}
-\sum_{i=1}^{n}(y_i-\hat{y}_i)
-$$
-
-### Gradient with respect to Bias
-
-$$
-\frac{\partial J}{\partial b}
-=
--\frac{2}{n}
-\sum_{i=1}^{n}(y_i-\hat{y}_i)
-$$
 ---
 
 ## Parameter Update
