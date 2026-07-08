@@ -1,134 +1,156 @@
 # AI From Scratch
 
-Implementing Machine Learning and Deep Learning algorithms **from scratch** using only **Python** and **NumPy**.
+> Implementing Machine Learning and Deep Learning algorithms completely **from scratch** using only **Python**, **NumPy**, and **Matplotlib**.
 
-The purpose of this repository is to understand the mathematical foundations of Machine Learning instead of relying on high-level libraries such as scikit-learn or TensorFlow.
+The purpose of this repository is to understand the mathematics and implementation details behind Machine Learning algorithms before relying on high-level frameworks such as **Scikit-Learn**, **TensorFlow**, or **PyTorch**.
 
 ---
 
+# Features
+
+- Pure Python implementation
+- NumPy-based numerical computation
+- No Machine Learning libraries
+- Mathematical implementation
+- Gradient Descent optimization
+- Visualization using Matplotlib
+- Educational code with clean structure
+
+---
+
+# Repository Structure
+
+```text
+AI_From_Scratch/
+│
+├── LinearRegression/
+│   ├── LinearRegression.py
+│   ├── README.md
+│   └── images/
+│
+├── LogisticRegression/
+│   ├── LogisticRegression.py
+│   ├── README.md
+│   └── images/
+│
+├── README.md
+└── LICENSE
+```
+
+---
 
 # Current Implementations
 
-* ✅ Linear Regression 
-* ✅ Logistic Regression
+| Algorithm | Description | Status |
+|-----------|-------------|--------|
+| Linear Regression | Predict continuous values using Gradient Descent | ✅ |
+| Logistic Regression | Binary Classification using Sigmoid Function | ✅ |
+
 ---
 
 # Planned Implementations
 
-* K-Nearest Neighbors (KNN)
-* Decision Tree
-* Random Forest
-* Naive Bayes
-* Support Vector Machine (SVM)
-* Perceptron
-* Neural Networks
-* Convolutional Neural Networks (CNN)
-* Recurrent Neural Networks (RNN)
-* Attention Mechanism
-* Transformer
+| Algorithm | Status |
+|-----------|--------|
+| K-Nearest Neighbors (KNN) | ⏳ |
+| Decision Tree | ⏳ |
+| Random Forest | ⏳ |
+| Naive Bayes | ⏳ |
+| Support Vector Machine (SVM) | ⏳ |
+| Perceptron | ⏳ |
+| Neural Networks | ⏳ |
+| Convolutional Neural Networks (CNN) | ⏳ |
+| Recurrent Neural Networks (RNN) | ⏳ |
+| Attention Mechanism | ⏳ |
+| Transformer | ⏳ |
 
 ---
 
-# Linear Regression
+# Implemented Algorithms
 
-## Mathematical Model
+## Linear Regression
 
-The hypothesis function is defined as
+Linear Regression predicts **continuous numerical values** by fitting a straight line to the training data.
+
+### Mathematical Model
 
 $$
 \hat{y}=wx+b
 $$
 
-where
+### Loss Function
 
-* **x** : input feature
-* **w** : weight (slope)
-* **b** : bias (intercept)
-* **ŷ** : predicted value
+Mean Squared Error (MSE)
 
----
+### Optimizer
 
-## Objective Function
-
-The objective is to minimize the Mean Squared Error (MSE):
-
-$$
-MSE=\frac1n\sum_{i=1}^{n}(y_i-\hat y_i)^2
-$$
-
-where
-
-* (y_i) is the true value
-* (\hat y_i) is the predicted value
-* (n) is the number of samples
-
+Gradient Descent
 
 ---
 
-## Parameter Update
+### Example Result
 
-After computing the gradients, the parameters are updated using
 
-$$
-w=w-\alpha\frac{\partial J}{\partial w}
-$$
-
-$$
-b=b-\alpha\frac{\partial J}{\partial b}
-$$
-
-where
-
-* **α** is the learning rate.
+```md
+![Linear Regression](LinearRegression/images/regression_line.png)
+```
 
 ---
 
-# Training Procedure
+## Logistic Regression
 
-1. Initialize weight and bias.
-2. Predict the output.
-3. Compute the Mean Squared Error.
-4. Compute the gradients.
-5. Update parameters.
-6. Repeat until convergence.
+Logistic Regression is a **binary classification** algorithm that predicts probabilities using the **Sigmoid** activation function.
+
+### Linear Model
+
+$$
+z=wx+b
+$$
+
+### Activation Function
+
+Sigmoid
+
+$$
+\sigma(z)=\frac1{1+e^{-z}}
+$$
+
+### Loss Function
+
+Binary Cross Entropy (BCE)
+
+### Optimizer
+
+Gradient Descent
 
 ---
 
-# Time Complexity
-
-| Operation            | Complexity |
-| -------------------- | ---------: |
-| Prediction           |       O(n) |
-| Loss Calculation     |       O(n) |
-| Gradient Calculation |       O(n) |
-| One Training Epoch   |       O(n) |
+### Example Result
 
 
+```md
+![Sigmoid Curve](LogisticRegression/images/sigmoid.png)
+```
+
+```md
+![Training Loss](LogisticRegression/images/loss.png)
+```
 
 ---
 
 # Technologies
 
-* Python
-* NumPy
-* Matplotlib
+- Python
+- NumPy
+- Matplotlib
 
 ---
 
-# Future Improvements
-
-* Mini-Batch Gradient Descent
-* Stochastic Gradient Descent (SGD)
-* Feature Scaling
-* L1 & L2 Regularization
-* Polynomial Regression
-* Multiple Linear Regression
-* Early Stopping
-* Model Evaluation Metrics
-
----
 
 # Goal
 
-This repository is part of my journey to deeply understand Artificial Intelligence by implementing every algorithm from scratch before using high-level Machine Learning frameworks.
+This repository is part of my journey to deeply understand Artificial Intelligence by implementing every Machine Learning and Deep Learning algorithm from scratch.
 
+Instead of using high-level Machine Learning libraries, every model is built step by step using only Python and NumPy to better understand the underlying mathematics and optimization process.
+
+The repository will continue to grow as more algorithms are implemented.
