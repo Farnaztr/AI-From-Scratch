@@ -131,19 +131,7 @@ where
 | Gradient Calculation |       O(n) |
 | One Training Epoch   |       O(n) |
 
----
 
-# Features
-
-* Linear Regression implemented completely from scratch
-* Gradient Descent optimization
-* Mean Squared Error (MSE)
-* Prediction function
-* Loss calculation
-* Gradient computation
-* Object-Oriented implementation
-* NumPy-based implementation
-* Visualization using Matplotlib
 
 ---
 
@@ -172,8 +160,3 @@ where
 
 This repository is part of my journey to deeply understand Artificial Intelligence by implementing every algorithm from scratch before using high-level Machine Learning frameworks.
 
----
-
-## Author
-
-**Farnaz Tarabi**
