@@ -113,14 +113,6 @@ Gradient Descent
 
 ---
 
-# Technologies
-
-- Python
-- NumPy
-- Matplotlib
-
----
-
 
 # Goal
 
