@@ -18,27 +18,6 @@ The purpose of this repository is to understand the mathematics and implementati
 
 ---
 
-# Repository Structure
-
-```text
-AI_From_Scratch/
-│
-├── LinearRegression/
-│   ├── LinearRegression.py
-│   ├── README.md
-│   └── images/
-│
-├── LogisticRegression/
-│   ├── LogisticRegression.py
-│   ├── README.md
-│   └── images/
-│
-├── README.md
-└── LICENSE
-```
-
----
-
 # Current Implementations
 
 | Algorithm | Description | Status |
@@ -92,7 +71,7 @@ Gradient Descent
 
 
 ```md
-![Linear Regression](LinearRegression/images/regression_line.png)
+![Linear Regression](linear.png)
 ```
 
 ---
