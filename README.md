@@ -9,13 +9,12 @@ The purpose of this repository is to understand the mathematical foundations of 
 
 # Current Implementations
 
-* ✅ Linear Regression (Gradient Descent)
-
+* ✅ Linear Regression 
+* ✅ Logistic Regression
 ---
 
 # Planned Implementations
 
-* Logistic Regression
 * K-Nearest Neighbors (KNN)
 * Decision Tree
 * Random Forest
