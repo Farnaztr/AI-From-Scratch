@@ -36,9 +36,9 @@ The purpose of this repository is to understand the mathematical foundations of 
 
 The hypothesis function is defined as
 
-[
+$$
 \hat{y}=wx+b
-]
+$$
 
 where
 
@@ -53,9 +53,9 @@ where
 
 The objective is to minimize the Mean Squared Error (MSE):
 
-[
+$$
 MSE=\frac1n\sum_{i=1}^{n}(y_i-\hat y_i)^2
-]
+$$
 
 where
 
@@ -71,39 +71,34 @@ Gradient Descent updates the parameters iteratively to minimize the loss functio
 
 ### Gradient with respect to Weight
 
-[
-\frac{\partial J}{\partial w}
-=============================
-
+$$
+\frac{\partial J}{\partial b}
+=
 -\frac{2}{n}
-\sum_{i=1}^{n}
-x_i(y_i-\hat y_i)
-]
+\sum_{i=1}^{n}(y_i-\hat{y}_i)
+$$
 
 ### Gradient with respect to Bias
 
-[
+$$
 \frac{\partial J}{\partial b}
-=============================
-
+=
 -\frac{2}{n}
-\sum_{i=1}^{n}
-(y_i-\hat y_i)
-]
-
+\sum_{i=1}^{n}(y_i-\hat{y}_i)
+$$
 ---
 
 ## Parameter Update
 
 After computing the gradients, the parameters are updated using
 
-[
+$$
 w=w-\alpha\frac{\partial J}{\partial w}
-]
+$$
 
-[
+$$
 b=b-\alpha\frac{\partial J}{\partial b}
-]
+$$
 
 where
 
