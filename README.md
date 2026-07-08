@@ -70,9 +70,8 @@ Gradient Descent
 ### Example Result
 
 
-```md
-![Linear Regression](linear.png)
-```
+
+<img src="linear.png" width="700">
 
 ---
 
