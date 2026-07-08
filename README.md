@@ -71,7 +71,7 @@ Gradient Descent
 
 
 
-<img src="linear.png" width="700">
+<img src="https://raw.githubusercontent.com/Farnaztr/AI-From-Scratch/master/linear.png" width="400">
 
 ---
 
@@ -106,13 +106,10 @@ Gradient Descent
 ### Example Result
 
 
-```md
-![Sigmoid Curve](LogisticRegression/images/sigmoid.png)
-```
+<img src="https://raw.githubusercontent.com/Farnaztr/AI-From-Scratch/master/sigmoid.png" width="400">  <img src="https://raw.githubusercontent.com/Farnaztr/AI-From-Scratch/master/curve.png" width="390">
 
-```md
-![Training Loss](LogisticRegression/images/loss.png)
-```
+
+
 
 ---
 
