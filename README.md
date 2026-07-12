@@ -70,7 +70,6 @@ Gradient Descent
 ### Example Result
 
 
-
 <img src="https://raw.githubusercontent.com/Farnaztr/AI-From-Scratch/master/linear.png" width="400">
 
 ---
