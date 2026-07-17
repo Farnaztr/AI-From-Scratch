@@ -1,4 +1,4 @@
-#Second Model From Scratch
+#Second Model From Scratch:)
 import numpy as np
 import matplotlib.pyplot as plt
 class LogisticRegression:
