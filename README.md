@@ -8,6 +8,7 @@ The purpose of this repository is to understand the mathematics and implementati
 
 # Features
 
+
 - Pure Python implementation
 - NumPy-based numerical computation
 - No Machine Learning libraries
