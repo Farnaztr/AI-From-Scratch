@@ -1,8 +1,8 @@
 # AI From Scratch
 
-> Implementing Machine Learning and Deep Learning algorithms completely **from scratch** using only **Python**, **NumPy**, and **Matplotlib**.
+> Implementing Machine Learning and Deep Learning algorithms completely **from scratch**.
 
-The purpose of this repository is to understand the mathematics and implementation details behind Machine Learning algorithms before relying on high-level frameworks such as **Scikit-Learn**, **TensorFlow**, or **PyTorch**.
+The purpose of this repository is to understand the mathematics and implementation details behind Machine Learning algorithms before relying on high-level frameworks.
 
 ---
 
