@@ -27,8 +27,6 @@ The purpose of this repository is to understand the mathematics and implementati
 | Neural Networks | ⏳ |
 | Convolutional Neural Networks (CNN) | ⏳ |
 | Recurrent Neural Networks (RNN) | ⏳ |
-| Attention Mechanism | ⏳ |
-| Transformer | ⏳ |
 
 ---
 
