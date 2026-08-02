@@ -1,21 +1,8 @@
 # AI From Scratch
 
-> Implementing Machine Learning and Deep Learning algorithms completely **from scratch**.
+> Implementing Machine Learning and Deep Learning algorithms  **from scratch**.
 
 The purpose of this repository is to understand the mathematics and implementation details behind Machine Learning algorithms before relying on high-level frameworks.
-
----
-
-# Features
-
-
-- Pure Python implementation
-- NumPy-based numerical computation
-- No Machine Learning libraries
-- Mathematical implementation
-- Gradient Descent optimization
-- Visualization using Matplotlib
-- Educational code with clean structure
 
 ---
 
@@ -108,16 +95,3 @@ Gradient Descent
 
 <img src="https://raw.githubusercontent.com/Farnaztr/AI-From-Scratch/master/sigmoid.png" width="400">  <img src="https://raw.githubusercontent.com/Farnaztr/AI-From-Scratch/master/curve.png" width="390">
 
-
-
-
----
-
-
-# Goal
-
-This repository is part of my journey to deeply understand Artificial Intelligence by implementing every Machine Learning and Deep Learning algorithm from scratch.
-
-Instead of using high-level Machine Learning libraries, every model is built step by step using only Python and NumPy to better understand the underlying mathematics and optimization process.
-
-The repository will continue to grow as more algorithms are implemented.
