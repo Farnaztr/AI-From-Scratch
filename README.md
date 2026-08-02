@@ -19,6 +19,7 @@ The purpose of this repository is to understand the mathematics and implementati
 | Algorithm | Status |
 |-----------|--------|
 | K-Nearest Neighbors (KNN) | ⏳ |
+| k-means clustering | ⏳ |
 | Decision Tree | ⏳ |
 | Random Forest | ⏳ |
 | Naive Bayes | ⏳ |
