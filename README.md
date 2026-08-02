@@ -1,6 +1,5 @@
 # AI From Scratch
 
-> Implementing Machine Learning and Deep Learning algorithms  **from scratch**.
 
 The purpose of this repository is to understand the mathematics and implementation details behind Machine Learning algorithms before relying on high-level frameworks.
 
