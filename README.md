@@ -9,16 +9,15 @@ The purpose of this repository is to understand the mathematics and implementati
 
 | Algorithm | Description | Status |
 |-----------|-------------|--------|
-| Linear Regression | Predict continuous values using Gradient Descent | ✅ |
-| Logistic Regression | Binary Classification using Sigmoid Function | ✅ |
-
+| Linear Regression | ✅ |
+| Logistic Regression | ✅ |
+| K-Nearest Neighbors (KNN) | ✅ |
 ---
 
 # Planned Implementations
 
 | Algorithm | Status |
 |-----------|--------|
-| K-Nearest Neighbors (KNN) | ⏳ |
 | k-means clustering | ⏳ |
 | Decision Tree | ⏳ |
 | Random Forest | ⏳ |
