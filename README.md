@@ -7,8 +7,8 @@ The purpose of this repository is to understand the mathematics and implementati
 
 # Current Implementations
 
-| Algorithm | Description | Status |
-|-----------|-------------|--------|
+| Algorithm | Status |
+|-----------|--------|
 | Linear Regression | ✅ |
 | Logistic Regression | ✅ |
 | K-Nearest Neighbors (KNN) | ✅ |
