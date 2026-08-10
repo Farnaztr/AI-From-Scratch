@@ -29,6 +29,11 @@ The purpose of this repository is to understand the mathematics and implementati
 | Recurrent Neural Networks (RNN) | ⏳ |
 
 ---
+-i've written an article about Logistic Regression and the mathematics if u like take a look at it!
+
+-https://vrgl.ir/TIDBe
+
+---
 
 # Implemented Algorithms
 
