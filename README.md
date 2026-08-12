@@ -12,6 +12,8 @@ The purpose of this repository is to understand the mathematics and implementati
 | Linear Regression | ✅ |
 | Logistic Regression | ✅ |
 | K-Nearest Neighbors (KNN) | ✅ |
+| Perceptron | ✅ |
+
 ---
 
 # Planned Implementations
@@ -23,7 +25,6 @@ The purpose of this repository is to understand the mathematics and implementati
 | Random Forest | ⏳ |
 | Naive Bayes | ⏳ |
 | Support Vector Machine (SVM) | ⏳ |
-| Perceptron | ⏳ |
 | Neural Networks | ⏳ |
 | Convolutional Neural Networks (CNN) | ⏳ |
 | Recurrent Neural Networks (RNN) | ⏳ |
