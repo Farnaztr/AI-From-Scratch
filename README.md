@@ -50,7 +50,7 @@ $$
 
 ### Loss Function
 
-Mean Squared Error (MSE)
+Huber Loss
 
 ### Optimizer
 
