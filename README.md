@@ -61,7 +61,7 @@ Gradient Descent
 ### Example Result
 
 
-<img src="https://raw.githubusercontent.com/Farnaztr/AI-From-Scratch/master/linear.png" width="400">
+<img src="https://raw.githubusercontent.com/Farnaztr/AI-From-Scratch/master/linear_rg.png" width="400">
 
 ---
 
@@ -97,4 +97,6 @@ Gradient Descent
 
 
 <img src="https://raw.githubusercontent.com/Farnaztr/AI-From-Scratch/master/sigmoid.png" width="400">  <img src="https://raw.githubusercontent.com/Farnaztr/AI-From-Scratch/master/curve.png" width="390">
+
+# Other Models pics
 
