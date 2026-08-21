@@ -1,5 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
+
+# second model
+
 class LogisticRegression:
 
     def __init__(self):
