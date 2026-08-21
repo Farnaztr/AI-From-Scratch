@@ -98,6 +98,10 @@ Gradient Descent
 
 <img src="https://raw.githubusercontent.com/Farnaztr/AI-From-Scratch/master/sigmoid.png" width="400">  <img src="https://raw.githubusercontent.com/Farnaztr/AI-From-Scratch/master/curve.png" width="390">
 
+---
+
+
 # Other Models pics
 
-<img src="https://raw.githubusercontent.com/Farnaztr/AI-From-Scratch/master/Screenshot 2026-08-12 213850.png" width="400"> 
+<img src="https://raw.githubusercontent.com/Farnaztr/AI-From-Scratch/master/Screenshot 2026-08-12 213850.png" width="380"> <img src="https://raw.githubusercontent.com/Farnaztr/AI-From-Scratch/master/Screenshot 2026-08-04 192457.png"  width="400"> 
+
