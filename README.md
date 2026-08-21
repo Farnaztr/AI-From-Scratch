@@ -100,3 +100,4 @@ Gradient Descent
 
 # Other Models pics
 
+<img src="https://raw.githubusercontent.com/Farnaztr/AI-From-Scratch/master/Screenshot 2026-08-12 213850.png" width="400"> 
