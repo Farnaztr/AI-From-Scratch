@@ -15,14 +15,13 @@ The purpose of this repository is to understand the mathematics and implementati
 | Logistic Regression | ✅ |
 | K-Nearest Neighbors (KNN) | ✅ |
 | Perceptron | ✅ |
-
+| k-means clustering | ✅ |
 ---
 
 # Planned Implementations
 
 | Algorithm | Status |
 |-----------|--------|
-| k-means clustering | ⏳ |
 | Decision Tree | ⏳ |
 | Random Forest | ⏳ |
 | Naive Bayes | ⏳ |
@@ -103,7 +102,8 @@ Gradient Descent
 ---
 
 
-# Other Models pic (knn, perceptron)
+# Other Models pic (knn, perceptron, k-means)
 
 <img src="https://raw.githubusercontent.com/Farnaztr/AI-From-Scratch/master/Screenshot 2026-08-12 213850.png" width="380"> <img src="https://raw.githubusercontent.com/Farnaztr/AI-From-Scratch/master/Screenshot 2026-08-04 192457.png"  width="400"> 
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/cc437418-07f6-4a31-9940-70f214b11378" />
 
