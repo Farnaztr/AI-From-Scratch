@@ -26,6 +26,7 @@ The purpose of this repository is to understand the mathematics and implementati
 | Naive Bayes | ⏳ |
 | Support Vector Machine (SVM) | ⏳ |
 | Neural Networks | ⏳ |
+| PCA | ⏳ |
 | Convolutional Neural Networks (CNN) | ⏳ |
 | Recurrent Neural Networks (RNN) | ⏳ |
 
