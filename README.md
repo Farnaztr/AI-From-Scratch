@@ -23,7 +23,6 @@ The purpose of this repository is to understand the mathematics and implementati
 | Algorithm | Status |
 |-----------|--------|
 | Decision Tree | ⏳ |
-| Random Forest | ⏳ |
 | Naive Bayes | ⏳ |
 | Support Vector Machine (SVM) | ⏳ |
 | Neural Networks | ⏳ |
